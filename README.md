@@ -1,3 +1,4 @@
+![card](https://github.com/Gifftybabe/Azia-Connect/assets/105078661/1cedb2a1-ab09-4b84-9477-4fdeae558067)
 # Chat App Project
 
 Welcome to the Chat App project repository! This project aims to create a real-time messaging application that allows users to connect, chat, and collaborate seamlessly. This README.md file provides an overview of the project and instructions on how to set up and run the application.
